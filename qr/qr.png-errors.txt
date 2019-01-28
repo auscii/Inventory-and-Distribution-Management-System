@@ -1,0 +1,2040 @@
+2018-07-01 18:07:49: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_8.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_49_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_49_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_49_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_49_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_49_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_49_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_49_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_49_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:10:29: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_8.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_49_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_49_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_49_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_49_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_49_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_49_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_49_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_49_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:19:34: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_33_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_33_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_33_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_33_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_33_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_33_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_33_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_33_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:19:36: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_33_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_33_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_33_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_33_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_33_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_33_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_33_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_33_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:27:15: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_33_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_33_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_33_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_33_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_33_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_33_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_33_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_33_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:27:44: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_33_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_33_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_33_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_33_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_33_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_33_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_33_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_33_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:28:16: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_37_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_37_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_37_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_37_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_37_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_37_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_37_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_37_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:28:32: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_37_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_37_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_37_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_37_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_37_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_37_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_37_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_37_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:28:52: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_37_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_37_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_37_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_37_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_37_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_37_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_37_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_37_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:29:04: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_37_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_37_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_37_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_37_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_37_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_37_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_37_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_37_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:30:05: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:30:18: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:30:40: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_8.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_49_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_49_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_49_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_49_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_49_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_49_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_49_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_49_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:30:43: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_8.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_49_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_49_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_49_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_49_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_49_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_49_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_49_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_49_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:31:23: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_8.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_49_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_49_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_49_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_49_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_49_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_49_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_49_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_49_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:31:25: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_8.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_49_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_49_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_49_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_49_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_49_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_49_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_49_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_49_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:31:48: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:32:25: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_13.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_69_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_69_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_69_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_69_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_69_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_69_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_69_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_69_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:35:40: empty string!!!2018-07-01 18:36:57: empty string!!!2018-07-01 18:39:59: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:51:43: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:51:50: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:51:53: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:52:17: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:53:08: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:53:46: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:56:11: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:56:25: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:56:45: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:57:29: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:57:37: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:57:44: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:57:53: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:58:01: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:58:13: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 18:58:28: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 19:00:16: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 19:00:36: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 19:01:00: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 19:01:16: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 19:01:27: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:44:43: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:46:31: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:48:20: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:49:03: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:50:06: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:51:48: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 21:52:04: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 22:28:44: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 22:34:37: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 22:34:54: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 22:40:56: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 22:41:17: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 22:45:34: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:00:25: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:02:27: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:03:13: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:03:34: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:03:52: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:09:44: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+2018-07-01 23:24:28: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\frame_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_0\mask_41_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_1\mask_41_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_2\mask_41_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_3\mask_41_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_4\mask_41_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_5\mask_41_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_6\mask_41_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\PMS\SYSTEM\qr\cache\mask_7\mask_41_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\PMS\SYSTEM\qr\qrmask.php</b> on line <b>155</b><br />

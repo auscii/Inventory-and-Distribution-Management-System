@@ -1,0 +1,1 @@
+PURCHASE ORDER = ADD(+) to Raw Material Product AND DEDUCT(-) to Supplier Product 

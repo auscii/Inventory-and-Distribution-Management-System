@@ -1,0 +1,165 @@
+ .sqs-audio-embed {
+   visibility: hidden;
+ }
+
+ .hidden {
+    visibility: hidden;
+}
+
+#mySidenav a {
+    position: absolute;
+    /*top: 10px;*/
+    left: -92px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 110px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#about {
+    top: 10px;
+    background-color: #AB3434;
+}
+
+#backup {
+    top: 70px;
+    background-color: #97AB48;
+}
+
+#projects {
+    top: 130px;
+    background-color: #f44336;
+}
+
+#contact {
+    top: 190px;
+    background-color: #25A123;
+}
+
+
+
+/*Loading Effect*/
+
+/*#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 5px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 5px solid #2c3e50;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 1.5s linear infinite;
+  animation: spin 1.5s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}*/
+
+/* include this only once */
+/*@-webkit-keyframes spin {
+    0%   {
+        -webkit-transform: rotate(0deg); 
+        -ms-transform: rotate(0deg);  
+        transform: rotate(0deg);  
+    }
+    100% {
+        -webkit-transform: rotate(360deg);  
+        -ms-transform: rotate(360deg);  
+        transform: rotate(360deg); 
+    }
+}
+
+
+
+@keyframes spin {
+    0%   {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg); 
+        transform: rotate(0deg); 
+    }
+    100% {
+        -webkit-transform: rotate(360deg); 
+        -ms-transform: rotate(360deg); 
+        transform: rotate(360deg); 
+    }
+}*/
+
+/* "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
+
+.animate-top {
+  position: relative;
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 1s;
+  animation-name: animatetop;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatetop {
+  from { top:-250px; opacity:0 } 
+  to { top:0px; opacity:1 }
+}
+
+@keyframes animatetop { 
+  from{ top:-250px; opacity:0 } 
+  to{ top:0; opacity:1 }
+}
+
+.animate-right {
+    position: relative;
+    -webkit-animation-name: animateright;
+    -webkit-animation-duration: 1s;
+    animation-name: animateright;
+    animation-duration: 1s
+  }
+  
+  @-webkit-keyframes animateright {
+    from { right:-550px; opacity:0 } 
+    to { right:0px; opacity:1 }
+  }
+  
+  @keyframes animateright { 
+    from{ right:-550px; opacity:0 } 
+    to{ right:0; opacity:1 }
+  }
+
+#myDiv {
+  display: none;
+}

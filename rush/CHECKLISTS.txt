@@ -1,0 +1,41 @@
+CHECKLISTS
+
+1.)	pms_users
+
+2.) pms_units
+
+3.) pms_suppliers
+
+4.)	pms_stockcard
+
+5.) pms_salesorderheader
+
+6.) pms_salesorderdetails
+
+7.) pms_returnsheader
+
+8.) pms_returnsdetails
+
+9.) pms_rawmaterials
+
+10.) pms_purchaseorderheader
+
+11.) pms_purchaseorderdetails
+
+12.) pms_outsource
+
+13.) pms_logs
+
+14.) pms_joborderheader
+
+15.) pms_joborderdetails
+
+16.) pms_finishingheader
+
+17.) pms_finishingdetails
+
+18.) pms_customers
+
+19.) pms_assembleheader
+
+20.) pms_assembledetails

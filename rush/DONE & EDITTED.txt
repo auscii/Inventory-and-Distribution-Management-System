@@ -1,0 +1,530 @@
+DONE/EDIT FOR TODAY
+
+1.) May 04, 2018 (Friday)
+*pms_login.php
+*pms_home.php
+*pms_header.php
+*pms_profile.php
+*pms_profile_update.php
+*index.php
+
+2.) May 05, 2018 (Saturday)
+*pms_profile.php
+*pms_header.php
+*pms_home.php
+*pms_add_user.php
+*pms_adding_user.php
+*pms_profile_update.php
+*pms_login.php
+
+3.) May 06, 2018 (Sunday)
+*pms_header.php
+*pms_home.php
+*pms_footer.php
+*pms_login.php
+*pms_add_user.php
+*pms_adding_user.php
+*pms_profile.php
+
+4.) May 07, 2018 (Monday)
+*pms_customer.php
+*pms_header.php
+*pms_title.php
+*pms_raw_materials.php
+
+5.) May 08, 2018 (Tuesday)
+*pms_customer.php
+*pms_home.php
+*pms_raw_materials.php
+
+6.) May 09, 2018 (Wednesday)
+*pms_customer.php
+*pms_raw_materials.php
+*pms_supplier.php
+
+7.) May 10, 2018 (Thursday)
+*pms_header.php
+*pms_assemble.php
+*pms_home.php
+
+8.) May 11, 2018 (Friday)
+*index.php
+*pms_main.php
+*pms_sidebar.php
+*pms_logout.php
+*style.css
+*pms_raw_material.php
+*pms_user_menu.php
+*pms_assemble.php
+
+9.) May 12, 2018  (Saturday)
+*pms_raw_material.php
+*pms_customer.php
+*pms_sidebar.php
+*pms_user_menu.php
+
+10.) May 13, 2018 (Sunday)
+*pms_main.php
+*pms_sidebar.php
+*index.php
+*style.css
+*style_login.css
+
+11.) May 15, 2018 (Tuesday)
+*index.php
+*pms_raw_material.php
+*pms_customer.php
+*pms_sidebar.php
+*pms_supplier.php
+*pms_assemble.php
+*datatables-init.js
+
+12.) May 17, 2018 (Thursday)
+*pms_main.php
+*pms_raw_material.php
+*overlay.css
+*pms_assemble
+
+13.) May 18, 2018 (Friday)
+*pms_assemble.php
+*datatables-init.js
+*w3.css
+*pms_customer.php
+*pms_raw_material.php
+*pms_supplier.php
+
+14.) May 19, 2018 (Saturday)
+*pms_assemble.php
+
+15.) May 20, 2018 (Sunday)
+*pms_main.php
+*pms_assemble.php
+*overlay.css
+
+16.) May 21, 2018 (Monday)
+*pms_assemble.php
+
+17.) May 22, 2018 (Tuesday)
+*pms_assemble.php
+
+18.) May 24, 2018 (Thursday)
+*pms_assemble.php
+
+19.) May 25, 2018 (Friday)
+*pms_purchase_order.php
+*pms_sidebar.php
+*pms_raw_material.php
+*pms_customer.php
+*pms_supplier.php
+*pms_assemble.php
+
+20.) May 28, 2018 (Monday)
+*pms_purchase_order.php
+*pms_assemble.php
+*pms_raw_material.php
+
+21.) May 29 2018 (Tuesday)
+*pms_assemble.php
+*pms_purchase_order.php
+
+22.) May 30, 2018 (Wednesday)
+*pms_assemble.php
+*pms_purchase_order.php
+*pms_sales_order.php
+*pms_sidebar.php
+
+23.) May 31, 2018 (Thursday)
+*pms_sales_order.php
+*pms_sidebar.php
+*pms_stock_card.php
+
+24.) June 02, 2018 (Saturday)
+*pms_purchase_order.php
+*pms_sales_order.php
+
+25.) June 03, 2018 (Sunday)
+*pms_raw_material.php
+*pms_sidebar.php
+*pms_purchase_order.php
+*pms_sales_order.php
+*pms_finishing_product.php
+
+26.) June 04, 2018 (Monday)
+*pms_finishing_product.php
+
+27.) June 05, 2018 (Tuesday)
+*pms_finishing_product.php
+*pms_sales_order.php
+*pms_job_order.php
+*pms_sidebar.php
+
+28.) June 05, 2018 (Wednesday - Half)
+*pms_job_order.php
+
+29.) June 05, 2018 (Thursday - Half)
+*pms_job_order.php
+*pms_outsource.php
+*pms_sidebar.php
+
+30.) June 13, 2018 (Wednesday)
+*pms_finishing_product.php
+*pms_purchase_order.php
+*pms_sales_order.php
+*pms_raw_material.php
+
+31.) June 14, 2018 (Thursday)
+*pms_sales_order.php
+*pms_sidebar.php
+*(Removing pms_outsource.php)
+*pms_job_order.php
+*pms_assemble.php
+*pms_returns.php
+
+32.) June 20, 2018 (Wednesday)
+*pms_users.php
+*pms_sidebar.php
+*pms_customer.php
+*pms_raw_material.php
+*pms_supplier.php
+*pms_user_menu.php
+
+33.) June 23, 2018 (Saturday)
+*pms_user_menu.php
+*pms_users.php
+
+34.) June 25, 2018 (Sunday)
+*pms_sidebar.php
+*pms_sales_order_reports.php
+*index.php
+*pms_main.php
+
+35.) June 27, 2018 (Wednesday)
+*pms_sales_order_reports.php
+*pms_sales_order_reports_print.php
+
+36.) June 28, 2018 (Thursday)
+*pms_sales_order_reports.php
+*pms_sales_order_reports_print.php
+*animate_assets.css
+*pms_main.php
+
+37.) July 01, 2018 (Sunday)
+*pms_sales_order_reports.php
+*pms_sales_order_reports_print.php
+*qrlib.php
+*qrinput.php
+
+38.) July 02, 2018 (Monday)
+*pms_sales_order_reports_print.php
+*pms_sales_order.php
+
+39.) July 03, 2018 (Tuesday)
+*pms_sales_order.php
+*pms_sales_order_reports_print2.php
+*pms_purchase_order_reports.php
+*pms_purchase_order_reports_print.php
+*pms_sidebar.php
+
+40.) July 04, 2018 (Wednesday)
+*pms_job_order.php
+*pms_job_order_reports.php
+*pms_job_order_reports_print.php
+*pms_sidebar.php
+
+41.) July 08, 2018 (Sunday)
+*pms_dbcon.php
+*pms_customer.php
+*pms_raw_material.php
+*pms_supplier.php
+*pms_assemble.php
+*pms_finishing_product.php
+
+42.) July 10, 2018 (Tuesday)
+*pms_raw_material.php
+
+43.) July 11, 2018 (Wednesday)
+*pms_raw_material.php
+
+44.) July 15, 2018 (Sunday)
+*pms_purchase_order.php
+*pms_raw_material.php
+*pms_assemble.php
+*pms_finishing_product.php
+*pms_sales_order.php
+*pms_purchase_order_reports_print2.php
+*pms_purchase_order_reports_print.php
+*pms_job_order.php
+*pms_job_order_reports_print.php
+
+45.) July 17, 2018 (Tuesday)
+*pms_job_order.php
+*pms_job_order_reports_print.php
+*pms_returns.php
+*pms_returns_reports.php
+*pms_returns_reports_print.php
+*pms_sidebar.php
+*pms_returns_reports_print2.php
+*pms_job_order_reports_print.php
+*pms_purchase_order_reports_print.php
+*pms_sales_order_reports_print.php
+
+46.) July 18, 2018 (Wednesday)
+*pms_stock_card.php
+*datatables-init.js
+*pms_stock_card_reports.php
+*pms_stockcard_reports_print.php
+*pms_raw_material.php
+
+47.) July 19, 2018 (Thursday)
+*pms_main.php
+
+48.) July 22, 2018 (Sunday)
+*pms_stock_card.php
+*pms_stock_card_reports.php
+*pms_sidebar.php
+*pms_stockcard_reports_print.php
+*pms_stockcard_reports_print_all.php
+*pms_purchase_order.php
+*pms_purchase_order_reports_print2.php
+*pms_sales_order.php
+*pms_sales_order_reports_print2.php
+*pms_job_order.php
+*pms_job_order_reports_print2.php
+*pms_returns.php
+*pms_returns_reports_print2.php
+*pms_sales_order_reports_print.php
+*pms_purchase_order_reports_print.php
+*pms_job_order_reports_print.php
+*pms_returns_reports_print.php
+
+49.) Juy 25, 2018 (Wednesday)
+*index.php
+*pms_main_warehouseman.php
+*pms_users.php
+*pms_sidebar.php
+*pms_sidebar_warehouseman.php
+*pms_raw_material_warehouse_man.php
+
+50.) July 29, 2018 (Sunday)
+*pms_raw_material.php
+*pms_customer.php
+*pms_supplier.php
+
+51.) July 30, 2018 (Monday)
+*pms_raw_material.php
+*pms_activity_logs.php
+*pms_sidebar.php
+*pms_activitylog_report_print.php
+*pms_customer.php
+*pms_supplier.php
+
+52.) August 05, 2018 (Sunday)
+*pms_sidebar.php
+*pms_sidebar_warehouseman.php
+*pms_activity_logs.php
+*pms_stock_card.php
+*pms_users.php
+*pms_sidebar_warehouseman.php
+*pms_assemble.php
+*pms_finishing_product.php
+*pms_sidebar_operator.php
+*pms_raw_material.php
+*pms_customer.php
+*pms_supplier.php
+*index.php
+*pms_main_operator.php
+*pms_assemble.php
+*pms_job_order.php = DROP pms_cancellationdate in Table (pms_joborderheader)
+*pms_job_order_reports_print2.php
+
+51.) August 14, 2018 (Tuesday)
+*pms_raw_material.php
+*NOTES.txt
+
+52.) August 21, 2018 (Tuesday)
+*pms_raw_material.php (Removing pms_reorder field name)
+*pms_list_raw_material.php
+*pms_sidebar.php
+*pms_sidebar_operator.php
+*pms_job_order.php
+*pms_purchase_order.php
+*pms_sales_order.php
+*pms_returns.php 
+
+53.) August 25, 2018 (Saturday)
+*pms_raw_material.php (Adding pms_type_of_units, pms_wtpc_thickness, pms_wtpc_width)
+
+54.) August 26, 2018 (Sunday)
+*pms_customer.php (Adding the field name of pms_archive_status)
+*pms_raw_material.php
+*pms_supplier.php (Adding the field name of pms_archive_status)
+*pms_job_order.php (Adding the field of pms_jo_no and pms_operator_name, Removing the field name of pms_purchaseorder and pms_job_description)
+*pms_jo_po.php (Back up Job Order with Purchase Order)
+
+55.) August 27, 2018 (Monday)
+*pms_job_order.php
+
+56.) August 28, 2018 (Tuesday)
+*pms_job_order.php
+*pms_purchase_order.php (Removing the field name of pms_settled, pms_debitmemo, pms_reference)
+*pms_supplier.php (Adding new table -> pms_suppliers_product)
+
+57.) August 29, 2018 (Wednesday)
+*pms_supplier_product.php (Adding the field name of pms_suprod_image)
+*pms_supplier.php
+*pms_raw_material.php (Adding the field name of pms_supplier_name)
+
+58.) September 02, 2018 (Sunday)
+*pms_raw_material.php
+
+59.) September 03, 2018 (Monday)
+*pms_raw_material.php
+*pms_supplier_product.php
+*pms_job_order.php
+*pms_job_order_reports_print2.php
+
+60.) September 04, 2018 (Tuesday)
+*pms_supplier_product.php
+*pms_supplier.php
+*pms_raw_material.php
+*pms_job_order.php
+*pms_sales_order.php
+
+61.) September 09, 2018 (Sunday)
+*pms_supplier.php
+*pms_supplier_product.php
+*pms_raw_material.php
+
+62.) September 10, 2018 (Monday)
+*pms_raw_material.php
+*pms_get_supplier.php
+
+63.) September 11, 2018 (Tuesday)
+*index.php
+*pms_main_operator.php
+*pms_finishing_product.php
+*pms_raw_material.php
+
+64.) September 15, 2018 (Saturday)
+*pms_raw_material.php
+*pms_supplier_product.php
+*pms_get_supplier.php
+*pms_supplier.php
+*pms_customer.php
+*pms_job_order.php
+*pms_purchase_order.php
+*pms_returns.php
+*pms_sales_order.php
+*pms_main_operator.php
+*pms_ls.php
+*index.php
+
+65.) September 17, 2018 (Monday)
+*pms_main.php
+*pms_ls.php
+*pms_sidebar.php
+*pms_user_menu.php
+
+66.) September 19, 2018 (Wednesday)
+*pms_assemble.php
+*pms_expired_products.php
+*pms_sidebar.php
+*pms_main.php
+*pms_raw_material.php
+*pms_list_raw_material.php
+*pms_sidebar_operator.php
+*pms_sidebar_warehouseman.php
+
+67.) September 20, 2018 (Thursday)
+*pms_assemble.php
+*pms_main_operator.php
+*pms_raw_material.php
+*pms_finishing_product.php
+*pms_job_order.php
+*pms_expired_products.php
+*pms_list_raw_material.php
+
+68.) September 21, 2018 (Friday)
+*pms_main.php
+*pms_ls.php
+*ALL PHP FILES (Find & Replace idms_new_text.png, PMS/SYSTEM -> PMS/8080)
+*pms_returns_reports_print2.php
+*pms_sidebar_operator.php
+
+69.) September 22, 2018 (Saturday)
+*pms_main.php
+*pms_main_operator.php
+*pms_raw_material.php
+*pms_ls.php
+
+70.) September 23, 2018 (Sunday)
+*pms_customer.php
+*pms_supplier.php
+*pms_job_order.php
+*pms_purchase_order.php
+*pms_sales_order.php
+*pms_returns.php
+*pms_sidebar_operator.php
+*pms_main.php
+*pms_list_raw_material.php
+*pms_ls.php
+*pms_list_finished_product.php
+*pms_finished_product.php
+*pms_reference_product.php
+
+71.) September 29, 2018 (Saturday)
+ALL PHP FILES - Find & Replace (setTimeout 10000000000 for inactivity)
+*pms_reference_product.php
+*pms_add_reference_product.php
+*pms_get_raw_material_item.php
+
+72.) September 30, 2018 (Sunday)
+*pms_add_reference_product.php
+*pms_reference_product.php
+*pms_finished_product.php
+*pms_get_supplier_fp.php
+*pms_get_supplier.php
+*pms_supplier_product.php
+*pms_raw_material.php
+*pms_job_order.php
+*pms_job_order_reports_print2.php
+*pms_job_order_reports_print.php
+*pms_ls.php
+*pms_user_menu.php
+
+73.) October 07, 2018 (Sunday)
+*pms_purchase_order.php
+*pms_supplier_product.php
+*pms_purchase_order_reports_print2.php
+*pms_purchase_order_reports_print.php
+*pms_sales_order.php
+*pms_get_purchase_order.php
+*pms_returns.php
+
+74.) October 08, 2018 (Monday)
+*pms_main.php
+*pms_stockcard_reports_print_all.php
+*pms_raw_material.php
+*pms_supplier_product.php
+*pms_finished_product.php
+*pms_sidebar.php
+*style.css (Notif)
+
+75.) October 09, 2018 (Tuesday)
+*pms_main.php
+*pms_sidebar_operator.php
+*pms_returns_customer.php
+*pms_get_customer_jo.php
+*pms_returns.php
+*pms_stock_card.php
+*pms_sales_order.php
+*pms_purchase_order.php
+*pms_assemble.php
+*pms_finishing_product.php
+*print_distribute_finish_product.php
+*pms_graph_joborder_report.php
+*pms_fetch_jo.php
+*pms_select_job_order_report.php
+
+76.) October 10, 2018 (Wednesday)
+*ALL PHP FILES

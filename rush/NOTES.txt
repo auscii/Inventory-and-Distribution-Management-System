@@ -1,0 +1,91 @@
+Raw Material (Change to) Inventory Products
+
+
+****Classification
+- Types of Packaging Products
+
+    = Plastics Packaging - Plastics Packaging is used for packaging a variety of items i.e. fragile or non-perishable products. Plastics packaging materials are used to cover the plastic related materials or products. Most Plastics Packaging companies recycle waste or scrap plastic for re-use in their own facilities, and even offer alternatives. Without packing, these sophisticated goods with low shelf life will be easily affected by climatic conditions and eventually result in their malfunction or destruction. This packaging is done in such a way that no air or dust can sneak in and affect the goods.
+
+    = Flexible Packaging - Flexible packaging can be made with flexible materials that can be packed, sealed and can retain the freshness of its content. Be it moulding the packages into a variety of shapes or preserving the flavor and safety of food or logistical aspects, all are covered under the flexible packaging. This is the major benefit that makes flexible packaging the first choice for food packaging. The package can last for a very long time; if it is stored in the right conditions. Flexible packaging is environmentally friendly as it uses less material and less wastages to make it.
+
+    = Preservation Packaging - Preservation packaging includes both shrink wrapping and vacuum packaging, as well as other forms of packaging such as jar canning, aluminum cans, and other types of protective packages like egg cartons and milk jugs.
+
+
+****Unit (kg, Grams, mg)
+- Types of Units
+
+    = The miligram (mg)
+    = The kilogram (kg)
+    = The gram (s)
+    = The decargram (dcg)
+
+
+
+
+****WTPC (Weight per Piece)
+    = Width
+    = Length
+
+- https://www.mandelmetals.com/weight-per-piece-calculator
+
+
+Note for job order:
+*every time order of customer is added, it needs to have noted by the name of the operator.
+
+Customer module:
+A. from Delete to Archive
+B. Status: able/ disabled
+
+
+Purchased order: 
+*should be automatic
+
+When ordering, need to automate the inventory of the raw materials. 
+Ex. 7/11 order 1 box of ice cream => check the inventory, have a status bar: available, not available. If not available, purchase to supplier, else remark the due date.
+All delete need to change into archive
+Remarks for every archive and the name of the operator.
+
+
+SUPPLIER
+-Bago magbayad sa Order ni Jentec, dapat may cost muna ng order.
+
+
+Job order: Dun pa lang lalabas yung raw materials na kailangan sa order
+Need a product module, list of products
+per product, how many raw materials is needed. For automation.
+
+
+For defense:
+Dummy data
+-supplier
+-customer
+-products and raw materials needed
+
+
+Returns
+-automatic syang kukuha ng data sa purchased order
+
+
+
+
+
+
+
+
+Raw Material
+1.)  Cost * 0.30 = Net Profit
+  	 Net Profit + Cost = Unit Price
+
+2.)  Add supplier info
+
+TASKS
+
+- P.O.
+- S.O.
+- ACTIVITY LOGS
+- OUT OF STOCKS (QTY)
+- IF NOT EXCEED IN QTY
+- CHARTS
+- ARHIVE PRODUCTS = 1 IN ADDING PRODUCTS
+- ALL QTY Change to 1 decimal
+- ADD PESOS SIGN IN Cost AND Total Price
